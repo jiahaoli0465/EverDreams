@@ -1,0 +1,42 @@
+{
+  "urls": {
+    "2": {
+      "url": "http://everdreamsco.com/cart.js",
+      "folder": "html",
+      "filename": "4494ab2213a491bb06d9bbe3af826f7812736686.00000002.js",
+      "filetime": "20211011003020",
+      "filesize": "283",
+      "mimetype": "text/javascript",
+      "charset": "utf-8",
+      "url_original": "http://everdreamsco.com/cart.js"
+    }
+  }
+}
+{
+  "urls": {
+    "3": {
+      "url": "http://everdreamsco.com/robots.txt",
+      "folder": "html",
+      "filename": "46704bf728cf80cd8f5a48c701cedac7c9aedd2a.00000003.txt",
+      "filetime": "20220322185550",
+      "filesize": "3176",
+      "mimetype": "text/plain",
+      "charset": "utf-8",
+      "url_original": "http://everdreamsco.com/robots.txt"
+    }
+  }
+}
+{
+  "urls": {
+    "1": {
+      "url": "http://everdreamsco.com/",
+      "folder": "html",
+      "filename": "69dd15d6aeb8befe8bdde585fd10ab21a8d9e631.00000001.html",
+      "filetime": "20220124095852",
+      "filesize": "208213",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://everdreamsco.com/"
+    }
+  }
+}
